@@ -8,6 +8,6 @@ To explore and compare the performence of different Granite models in :
 -Generating summaries with different temperature & Top_P
 -
 #Tools & Models :
--IBM Watsonx.ai (Prompt Lab)
--Granite models : 'granite-3-3-8b-instruct' , 'granite-3-8b-instruct'
--GitHub for version control
+- IBM Watsonx.ai (Prompt Lab)
+- Granite models : 'granite-3-3-8b-instruct' , 'granite-3-8b-instruct'
+- GitHub for version control
